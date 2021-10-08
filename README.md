@@ -1,1 +1,1 @@
-Vue
+v-mask, vuelidate, bootstrap, jquery, popper
